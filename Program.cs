@@ -7,6 +7,7 @@ namespace VSDemowithGITHUB
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("heres a change World!");
         }
     }
 }
